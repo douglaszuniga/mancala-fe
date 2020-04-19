@@ -1,0 +1,11 @@
+.spaces-top {
+  display: flex;
+  margin: 2%;
+  margin-left: 23%;
+}
+
+.spaces-bottom {
+  display: flex;
+  margin: 2%;
+  margin-left: 31%;
+}

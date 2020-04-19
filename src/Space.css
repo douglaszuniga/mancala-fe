@@ -1,0 +1,20 @@
+.space {
+  border-radius: 25px;
+  border-style: solid;
+  justify-content: center;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.pit {
+  height: 50px;
+  width: 50px;
+  line-height: 150%;
+}
+
+.mancala {
+  height: 150px;
+  width: 100px;
+  margin: 10px;
+  line-height: 150%;
+}
